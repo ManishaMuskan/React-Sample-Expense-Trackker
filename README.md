@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# A React based sample project "Expense Trackker"
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project is basically done to showcase my knowledge on React. It has the basic features of adding your expense details and fi.ltering the expenses based on selected year. Chart is implemented for visual representation of expenses
 
 ## Available Scripts
 
