@@ -2,8 +2,6 @@ import React from "react";
 
 import Chart from "./../Chart/Chart";
 
-import "./ExpensesChart.css";
-
 const ExpensesChart = (props) => {
   let expensesDataPoints = [
     { label: "Jan", value: 0 },
